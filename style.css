@@ -147,7 +147,7 @@ figcaption {
     flex-wrap: wrap;
 }
 
-.site__map {
+.footer__nav-list {
     display: flex;
     flex-wrap: wrap;
     gap: 8px;
@@ -157,7 +157,7 @@ figcaption {
 
 }
 
-.site__map-items a,
+.footer__nav-items a,
 .footer__info a {
     color: var(--text-primary);
 }
